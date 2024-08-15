@@ -215,7 +215,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 class PlaceApiService{
-    private static final String API_KEY = "AIzaSyCHvk7BoPzS4ba8AFivA_fYQa1RwmgDgc0";
+    private static final String API_KEY = "";
     private static final String PLACE_SEARCH_URL = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json";
     private static final String PLACE_DETAILS_URL = "https://maps.googleapis.com/maps/api/place/details/json";
     private RequestQueue requestQueue;
