@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">SeeStop</string>
-    <string name="google_map_api_key">AIzaSyCHvk7BoPzS4ba8AFivA_fYQa1RwmgDgc0</string>
+    <string name="google_map_api_key"></string>
 </resources>
