@@ -8,6 +8,5 @@ The user speaks the location he wants to go to the phone. This voice input is tr
 
 When the location is reached, the voice guidance ends and the application notifies you that the destination has ended. If I am in a very noisy environment and the application does not understand the voice guidance, the user is warned with a voice command to repeat the input. Additionally, if I head in the wrong direction, warnings such as "Off route" can help me get back on the right path.
 
-## App Algorithim
+## App Algorithm
 
-![Untitled-2024-02-27-1735](https://github.com/ArtunKARA/SeeStop/assets/76822513/e3d3a57e-282f-4d40-a672-7bbae6ea5d76)
